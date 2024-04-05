@@ -1,0 +1,25 @@
+export const userList=[{
+    name:'abu',
+    email:'abu@gmail.com',
+    id:1
+},
+{
+    name:'sinan',
+    email:'sinan@gmail.com',
+    id:2
+},
+{
+    name:'sulaiman',
+    email:'sulaiman@gmail.com',
+    id:3
+}
+,{
+    name:'swalih',
+    email:'swalih@gmail.com',
+    id:4
+},
+{
+    name:'abdu',
+    email:'abdu@gmail.com',
+    id:5
+}]
